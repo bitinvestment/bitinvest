@@ -234,7 +234,7 @@
           },
           "title": "IMPORTANT: DOWNLOAD YOUR (IMF) CERTIFICATE OF FUND RELEASE HERE",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/CERTIFICATE%20OF%20FUND%20RELEASE.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/CERTIFICATE OF FUND RELEASE.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -263,7 +263,7 @@
           "_anchor": "social-buttons2-f"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"assets/files/COMPANY%20INSURANCE%20LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>INSURANCE LICENSE HERE<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/COMPANY%20LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>LICENSE HERE&nbsp;<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"assets/files/COMPANY INSURANCE LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>INSURANCE LICENSE HERE<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/COMPANY%20LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>LICENSE HERE&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -302,7 +302,7 @@
           },
           "text1": "Address<br>78 Grafton St ,<br>Manchester M13 9LR,<br>United Kingdom",
           "text2": "<strong>CONTACTS</strong><br>\nEmail:<br>bitinvestcustomercare@gmail.com<br>\nPhone: +1(973) 936-8678<br>Whatsapp:&nbsp;+1(973) 936-8678<br>Line: Bitcoin Invest",
-          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"assets/files/FUND%20RELEASE%20PROCESS.pdf\" class=\"text-info\">LINK</a></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"assets/files/FUND%20RELEASE%20PROCESS.pdf\" class=\"text-danger\">IMPORTANT NOTICE:</a></li><li><a href=\"assets/files/FUND%20RELEASE%20PROCESS.pdf\" class=\"text-danger\"> PLEASE KINDLY CLICK ON THE LINK ABOVE FOR (IMF) CERTIFICATE OF FUND RELEASE VALIDATION PROCESS TO RECEIVE PAYMENT TO YOUR BANK ACCOUNT&nbsp;</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"assets/files/FUND RELEASE PROCESS.pdf\" class=\"text-info\">LINK</a></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"assets/files/FUND RELEASE PROCESS.pdf\" class=\"text-danger\">IMPORTANT NOTICE:</a></li><li><a href=\"assets/files/FUND RELEASE PROCESS.pdf\" class=\"text-danger\"> PLEASE KINDLY CLICK ON THE LINK ABOVE FOR (IMF) CERTIFICATE OF FUND RELEASE VALIDATION PROCESS TO RECEIVE PAYMENT TO YOUR BANK ACCOUNT&nbsp;</a></li></ul>",
           "_tags": [
             "Theme"
           ],
